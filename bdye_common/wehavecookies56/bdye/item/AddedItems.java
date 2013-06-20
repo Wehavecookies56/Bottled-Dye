@@ -4,7 +4,6 @@ import wehavecookies56.bdye.lib.IDs;
 import net.minecraft.item.Item;
 
 public class AddedItems {
-
     public static Item WhiteDye;
     public static Item OrangeDye;
     public static Item MagentaDye;

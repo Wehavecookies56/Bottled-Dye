@@ -1,0 +1,20 @@
+[
+{
+  "modid": "bdye",
+  "name": "Bottled Dye Mod",
+  "description": "Double your dyes by bottling them up to make full use with no waste.",
+  "version": "0.0.1.1.5.2 Alpha",
+  "url": "N/A NOT RELEASED IN ALPHA",
+  "updateUrl": "",
+  "authorList": [
+    "Wehavecookies56"
+  ],
+  "credits": "By Wehavecookies56 textures by Wehavecookies56",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

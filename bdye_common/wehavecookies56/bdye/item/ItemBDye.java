@@ -2,11 +2,11 @@ package wehavecookies56.bdye.item;
 
 import net.minecraft.item.Item;
 
-public class ItemWhite extends ItemBDye {
+public class ItemBDye extends Item {
 
-    public ItemWhite(int id) {
+    public ItemBDye(int id) {
         super(id);
-        
+
     }
 
 }
